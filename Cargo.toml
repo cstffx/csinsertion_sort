@@ -1,6 +1,6 @@
 [package]
 name = "csinsertion_sort"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2021"
 description = "Insertion sort implementation for indexable collections"
 authors = ["Elihu Diaz Álvarez"]
